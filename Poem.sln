@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poem", "Poem.csproj", "{C20AA62A-F4B1-4952-BD47-EE4BD4E315A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C20AA62A-F4B1-4952-BD47-EE4BD4E315A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C20AA62A-F4B1-4952-BD47-EE4BD4E315A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C20AA62A-F4B1-4952-BD47-EE4BD4E315A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C20AA62A-F4B1-4952-BD47-EE4BD4E315A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20FCF756-46CF-469A-B15F-A58809279FC1}
+	EndGlobalSection
+EndGlobal
